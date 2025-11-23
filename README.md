@@ -6,7 +6,7 @@ https://github.com/faizahmedfarooqui/from-scratch-gpt
 
 Zero Hugging Face. Zero external transformer code. Only PyTorch + backprop.
 
-## Current shipped models (Nov 25, 2025)
+## Current shipped models (Nov 23, 2025)
 
 | Model      | Params  | Val loss | Notes                                      |
 |------------|---------|----------|--------------------------------------------|
