@@ -12,7 +12,7 @@ Inspired by Andrej Karpathy’s nanoGPT and “Let’s build GPT” (reference o
 
 | Week | Dates       | Milestone                                           | Blog Post (800–1200 words)                                                                 | Status |
 |------|-------------|-----------------------------------------------------|---------------------------------------------------------------------------------------------|--------|
-| 0    | Nov 20–23   | Repo + env + structure                              | [Week 0: Quitting Tutorials – A Backend Engineer Goes Raw](https://blog.faizahmed.in/week-0) | Done   |
+| 0    | Nov 20–23   | Repo + env + structure                              | Week 0: Quitting Tutorials – A Backend Engineer Goes Raw                                    | Done   |
 | 1    | Nov 24–30   | Bigram → MLP → single-head attention                | My First Backprop From Scratch (trained on Shakespeare)                                    | Done   |
 | 2    | Dec 1–7     | Multi-head, RoPE, SwiGLU, full 12-layer block       | Why My Attention Was 40× Slower Than FlashAttention                                         |        |
 | 3    | Dec 8–14    | 124M model training on OpenWebText                  | Training a Real 124M GPT on a Single A10G – Exact Code & $42 Bill                           |        |
